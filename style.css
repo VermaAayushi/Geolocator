@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #ebbaff !important;
+}
+.info{
+    background-color: #fff;
+}
+#Save{
+    background-color: black;
+    color: white;
+}
+.jumbotron-fluid{
+    padding: 20px !important;
+    padding-top: 25px !important;
+}
+.info{
+    border-radius: 5%;
+    border: black 2px;
+    border-style: solid;
+}
+.first{
+    border-top: 0 none !important;
+}
